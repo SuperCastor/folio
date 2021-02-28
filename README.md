@@ -1,1 +1,1 @@
-# itch-folio
+# folio
